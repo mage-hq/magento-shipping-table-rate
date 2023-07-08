@@ -1,5 +1,5 @@
 # magento-shipping-table-rate
-Magento 2 Shipping Table Rate creates an unlimited number of shipping methods with special rates with different conditions.
+Magento 2 Shipping Table Rates allows you to create multiple shipping options with special rates depending on different conditions.
 
 Please go to https://magehq.com/shipping-table-rate.html buy extension
 
